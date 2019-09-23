@@ -13,11 +13,15 @@ Si tiene instalado git, la forma más fácil de acceder a estos archivos es clon
 Alternativamente, puede descargar todo el repositorio como un archivo .zip desde la página de inicio del repositorio utilizando el botón verde "Clonar o descargar" en la esquina superior derecha.
 
 ### Contenidos del curso
+[comment]: <> (ver tema del indice de contenidos, si hacerlo por clase o general)
 
 * Unidad 1 - Fundamentos de programación en Python (Parte I).
-  * [Instalación y configuración del entorno de desarrollo](https://nbviewer.jupyter.org/github/maxiyommi/python_audio/blob/master/Unidad%201%20-%20Fundamentos%20de%20programaci%C3%B3n%20en%20Python%20I/notebook/instalacion.ipynb).
-      * Ejercicios.
-  * Conceptos básicos de la programación secuencial.
+    * Clase I 
+        * Instalación y configuración del entorno de desarrollo. [[Local]]() [[Web]]()
+        * Ejercicios_1A. [[Local]]() [[Web]]()
+        * Conceptos básicos de programación. [[Local]]() [[Web]]()
+        * Sintaxis básica. [[Local]]() [[Web]]()
+        * Ejercicios_1B. [[Local]]() [[Web]]()
   * Tipos de datos.
   * Operadores básicos.
   * Funciones integradas.
