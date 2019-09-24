@@ -18,6 +18,7 @@ Alternativamente, puede descargar todo el repositorio como un archivo .zip desde
 * Unidad 1 - Fundamentos de programación en Python (Parte I).
     * Clase I 
         * Instalación y configuración del entorno de desarrollo. [[Local]]() [[Web]]()
+        * Introducción a Git. [[Local]]() [[Web]]()
         * Ejercicios_1A. [[Local]]() [[Web]]()
         * Conceptos básicos de programación. [[Local]]() [[Web]]()
         * Sintaxis básica. [[Local]]() [[Web]]()
