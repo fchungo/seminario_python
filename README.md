@@ -12,12 +12,22 @@ Si tiene instalado git, la forma más fácil de acceder a estos archivos es clon
 **Sin `git`**
 Alternativamente, puede descargar todo el repositorio como un archivo .zip desde la página de inicio del repositorio utilizando el botón verde "Clonar o descargar" en la esquina superior derecha.
 
+### Cronograma
+
+La duración total del curso es de 24 horas, con un total de 6 horas por unidad.
+
+Teoría: 1 hora
+Práctica: 2 horas
+
+Con un total de 3 horas por clase, dividida en dos partes que conciste en 30 minutos de teoría y 1 hora de práctica.
+
 ### Contenidos del curso
 [comment]: <> (ver tema del indice de contenidos, si hacerlo por clase o general)
 
 * Unidad 1 - Fundamentos de programación en Python (Parte I).
     * Clase I 
         * Instalación y configuración del entorno de desarrollo. [[Local]]() [[Web]]()
+        * Introducción a Git. [[Local]]() [[Web]]()
         * Ejercicios_1A. [[Local]]() [[Web]]()
         * Conceptos básicos de programación. [[Local]]() [[Web]]()
         * Sintaxis básica. [[Local]]() [[Web]]()
