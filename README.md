@@ -21,7 +21,18 @@ Práctica: 2 horas
 
 Con un total de 3 horas por clase, dividida en dos partes que conciste en 30 minutos de teoría y 1 hora de práctica.
 
-### Contenidos del curso
+### Dinámica del curso
+
+El curso pretende ser intensivo, fue diseñado para ser dividido en dos intervalos teoricos-practico. Cada intervalo contempla un breve receso.
+
+Se propone la siguiente disponsición: 
+(30 minutos teoria + 50 minutos practica + 10 de receso ) * 2 = 3 horas
+
+### Requerimientos **Completar**
+[comment]: <> (pensar requerimientos respecto al uso del curso, al uso del mismo, interprete, libreria para eso mencionar el archivo "requirements.txt", entre otros. El curso debe ser declarado de caracter público.)
+
+
+### Contenidos del curso **CORREGIR**
 [comment]: <> (ver tema del indice de contenidos, si hacerlo por clase o general)
 
 * Unidad 1 - Fundamentos de programación en Python (Parte I).
