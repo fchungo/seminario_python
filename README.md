@@ -35,6 +35,36 @@ Se propone la siguiente disponsición:
 ### Contenidos del curso **CORREGIR**
 [comment]: <> (ver tema del indice de contenidos, si hacerlo por clase o general)
 
+* Clase I (test OK)
+  - 000_instalacion
+  - 001_conceptos_basicos
+  - 002_intro_git
+  - 003_ejercicio_1
+* Clase II (test)
+  - 100_sintaxis_basica
+  - 101_ejercicio_2
+  - 102_sintaxis_basica_2
+  - 103_ejercicio_3
+* Clase III (test)
+  - 200_modulo_funciones
+  - 201_ejercicio_4
+  - 202_sintaxis_basica_3 (faltan) (*)
+  - 203_ejercicio_5 (faltan) (*)
+* Clase IV
+  
+Test sobre 100 a 201 
+Trabajo en 202 y 203
+
+miercoles nuevo repo hasta clase 3
+actualizar web
+mandar mail con link a web
+
+
+
+
+
+
+
 * Unidad 1 - Fundamentos de programación en Python (Parte I).
     * Clase I 
         * Instalación y configuración del entorno de desarrollo. [[Local]]() [[Web]]()
