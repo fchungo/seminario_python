@@ -1,6 +1,9 @@
 - Revisar que todo el material este contenido en las 3 primeras clases. EL material del workshop FIE.
 3 clases 9 horas --> representa las herramientas basicas. Unidad 1 y Unidad 2
 - Revisar titulos de clases y secciones, que exista correlatividad.
+
+
+
 - Revisar distribucion de temas, la idea es 30' minutos de teoria 1:20 de practica aprox, capaz es necesario acomodar. Toda la parte basica de python debe entrar en 2 clases y 1/2.
 
 
