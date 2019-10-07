@@ -14,7 +14,7 @@ Alternativamente, puede descargar todo el repositorio como un archivo .zip desde
 
 ### Dinámica del curso
 
-**La duración total del curso es de 12 horas**, dividido en 4 clases de 3 horas cada una. El curso pretende ser intensivo, fue diseñado para ser dividido en dos intervalos teoricos-practico. Cada intervalo contempla un breve receso.
+**La duración total del curso es de 9 horas**, dividido en 3 clases de 3 horas cada una. El curso pretende ser intensivo, fue diseñado para ser dividido en dos intervalos teoricos-practico. Cada intervalo contempla un breve receso.
 
 Se propone la siguiente disponsición: 
 
@@ -41,8 +41,6 @@ Se propone la siguiente disponsición:
     * Ejercicios. [[Local]](notebooks/201_ejercicio_4.ipynb) [[Web]]()  
     * Más sobre estructuras. [[Local]](notebooks/202_mas_sobre_estructuras.ipynb) [[Web]]()
     * Ejercicios. [[Local]](notebooks/204_ejercicio_5.ipynb) [[Web]]()
-* Clase IV
-    * A definir.
 
 > **Nota:** cada notebook tiene su indice de contenidos bien detallado y los objetivos pedagógicos del mismo.
 
@@ -92,9 +90,14 @@ Se propone la siguiente disponsición:
 
 ## TAREAS PENDIENTES
   
-* [] Test sobre 100 a 201 
-* [] Trabajo en 202 y 203
-* [] miercoles nuevo repo hasta clase 3
-* [] actualizar web
-* [] mandar mail con link a web
-* [] armar los notebooks de ejercicios
+* [ ] miercoles nuevo repo hasta clase 3
+* [ ] actualizar web
+* [ ] mandar mail con link a web
+* [x] armar los notebooks de ejercicios
+* [ ] ver temario debajo de nota y verificar los titulos de cada notebook. Que no falte nada.
+* [ ] la idea es armar cursos modulares, que permitan combinarlos, python cientifico, sql, api, audio, ia, UI. 
+
+> Nota: en el caso del curso de aduntref, el curso es de 12 horas, hay que pensar en funcion de los intereses de los alumno que tema abordar en la clase 4.
+
+
+
