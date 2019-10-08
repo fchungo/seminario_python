@@ -39,7 +39,7 @@ Se propone la siguiente disponsición:
   - 001_conceptos_basicos
   - 002_intro_git
   - 003_ejercicio_1
-* Clase II (test)
+* Clase II (test OK)
   - 100_sintaxis_basica
   - 101_ejercicio_2
   - 102_sintaxis_basica_2
