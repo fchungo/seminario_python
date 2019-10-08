@@ -4,7 +4,7 @@ En este repositorio de código abierto, se encuentran las clases y los ejercicio
 
 ### Uso del material
 
-Todas las clases del seminario estan desarrolladas en *notebooks* de [Jupyter](https://jupyter.org/). Para disponer del material se puede realizar de la siguiente manera:
+Todas las clases del curso estan desarrolladas en *notebooks* de [Jupyter](https://jupyter.org/). Para disponer del material se puede realizar de la siguiente manera:
 
 **Con `git`**
 Si tiene instalado git, la forma más fácil de acceder a estos archivos es clonar el repositorio en el directorio que elija.
@@ -23,8 +23,7 @@ Se propone la siguiente disponsición:
 ### Requerimientos **Completar**
 [comment]: <> (pensar requerimientos respecto al uso del curso, al uso del mismo, interprete, libreria para eso mencionar el archivo "requirements.txt", entre otros. El curso debe ser declarado de caracter público.)
 
-### Contenidos del curso **CORREGIR**
-[comment]: <> (ver tema del indice de contenidos, si hacerlo por clase o general)
+### Indice por clase
 
 * Clase I
     * Instalación y configuración del entorno de desarrollo. [[Local]](notebooks/000_instalacion.ipynb) [[Web]]()
@@ -43,31 +42,6 @@ Se propone la siguiente disponsición:
     * Ejercicios. [[Local]](notebooks/204_ejercicio_5.ipynb) [[Web]]()
 
 > **Nota:** cada notebook tiene su indice de contenidos bien detallado y los objetivos pedagógicos del mismo.
-
-
-
-* Unidad 1 - Fundamentos de programación en Python (Parte I).
-    * Clase I 
-        * Instalación y configuración del entorno de desarrollo. [[Local]]() [[Web]]()
-        * Introducción a Git. [[Local]]() [[Web]]()
-        * Ejercicios_1A. [[Local]]() [[Web]]()
-        * Conceptos básicos de programación. [[Local]]() [[Web]]()
-        * Sintaxis básica. [[Local]]() [[Web]]()
-        * Ejercicios_1B. [[Local]]() [[Web]]()
-  * Tipos de datos.
-  * Operadores básicos.
-  * Funciones integradas.
-  * Uso de librerías externas I.
-  * Variables, asignación, indexado y tipo.
-  
-* Unidad 2 - Fundamentos de programación en Python (Parte II).  
-  * Listas, Tuplas y Diccionarios.
-  * Estructuras condicionales simples, anidadas y por casos.
-  * Estructuras iterativas.
-  * Declaraciones break, continue, else y pass.
-  * Funciones definidas por el usuario.
-  * Argumentos.
-  * Uso de librerías externas II.
 
 ## Autores
 
@@ -93,8 +67,11 @@ Se propone la siguiente disponsición:
 * [ ] miercoles nuevo repo hasta clase 3
 * [ ] actualizar web
 * [ ] mandar mail con link a web
+* [ ] completar "indice por clase" con los links a jviewer.
 * [x] armar los notebooks de ejercicios
-* [ ] ver temario debajo de nota y verificar los titulos de cada notebook. Que no falte nada.
+* [x] ver temario debajo de nota y verificar los titulos de cada notebook. Que no falte nada.
+* [ ] armar .zip con ejercicios solucion.
+* [ ] agregar como usa el archivo requirements.txt
 * [ ] la idea es armar cursos modulares, que permitan combinarlos, python cientifico, sql, api, audio, ia, UI. 
 
 > Nota: en el caso del curso de aduntref, el curso es de 12 horas, hay que pensar en funcion de los intereses de los alumno que tema abordar en la clase 4.
