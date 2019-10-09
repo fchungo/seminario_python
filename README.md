@@ -1,4 +1,4 @@
-![](../img/titulos_introduccion_al_lenguaje.png)
+![](../img/titulos_introduccion_a_python.png)
 
 En este repositorio de código abierto, se encuentran las clases y los ejercicios planteados durante el curso. Todos los apuntes, códigos de muestra y ejercicios están ordenados por clase.
 
@@ -20,26 +20,23 @@ Se propone la siguiente disponsición:
 
 (30 minutos teoria + 50 minutos practica + 10 de receso ) * 2 = 3 horas
 
-### Requerimientos **Completar**
-[comment]: <> (pensar requerimientos respecto al uso del curso, al uso del mismo, interprete, libreria para eso mencionar el archivo "requirements.txt", entre otros. El curso debe ser declarado de caracter público.)
-
 ### Indice por clase
 
 * Clase I
-    * Instalación y configuración del entorno de desarrollo. [[Local]](notebooks/000_instalacion.ipynb) [[Web]]()
-    * Introducción a Git. [[Local]](notebooks/001_intro_git.ipynb) [[Web]]()
-    * Conceptos básicos de programación. [[Local]](notebooks/002_conceptos_basicos.ipynb) [[Web]]()
-    * Ejercicios. [[Local]](notebooks/003_ejercicio_1.ipynb) [[Web]]()
+    * Instalación y configuración del entorno de desarrollo. [[Local]](notebooks/000_instalacion.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/000_instalacion.ipynb)
+    * Introducción a Git. [[Local]](notebooks/001_intro_git.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/001_intro_git.ipynb)
+    * Conceptos básicos de programación. [[Local]](notebooks/002_conceptos_basicos.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/002_conceptos_basicos.ipynb)
+    * Ejercicios. [[Local]](notebooks/003_ejercicio_1.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/003_ejercicio_1.ipynb)
 * Clase II 
-    * Sintaxis básica. [[Local]](notebooks/100_sintaxis_basica.ipynb) [[Web]]()
-    * Ejercicios. [[Local]](notebooks/101_ejercicio_2.ipynb) [[Web]]()
-    * Continuación de sintaxis básica. [[Local]](notebooks/102_sintaxis_basica_continuacion.ipynb) [[Web]]()
-    * Ejercicios. [[Local]](notebooks/103_ejercicio_3.ipynb) [[Web]]()
+    * Sintaxis básica. [[Local]](notebooks/100_sintaxis_basica.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/100_sintaxis_basica.ipynb)
+    * Ejercicios. [[Local]](notebooks/101_ejercicio_2.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/101_ejercicio_2.ipynb)
+    * Continuación de sintaxis básica. [[Local]](notebooks/102_sintaxis_basica_continuacion.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/102_sintaxis_basica_continuacion.ipynb)
+    * Ejercicios. [[Local]](notebooks/103_ejercicio_3.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/103_ejercicio_3.ipynb)
 * Clase III (test)
-    * Modulos y funciones. [[Local]](notebooks/200_modulos_funciones.ipynb) [[Web]]()
-    * Ejercicios. [[Local]](notebooks/201_ejercicio_4.ipynb) [[Web]]()  
-    * Más sobre estructuras. [[Local]](notebooks/202_mas_sobre_estructuras.ipynb) [[Web]]()
-    * Ejercicios. [[Local]](notebooks/204_ejercicio_5.ipynb) [[Web]]()
+    * Modulos y funciones. [[Local]](notebooks/200_modulos_funciones.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/200_modulos_funciones.ipynb)
+    * Ejercicios. [[Local]](notebooks/201_ejercicio_4.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/201_ejercicio_4.ipynb)  
+    * Más sobre estructuras. [[Local]](notebooks/202_mas_sobre_estructuras.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/202_mas_sobre_estructuras.ipynb)
+    * Ejercicios. [[Local]](notebooks/204_ejercicio_5.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/204_ejercicio_5.ipynb)
 
 > **Nota:** cada notebook tiene su indice de contenidos bien detallado y los objetivos pedagógicos del mismo.
 
@@ -67,12 +64,12 @@ Se propone la siguiente disponsición:
 * [ ] miercoles nuevo repo hasta clase 3
 * [ ] actualizar web
 * [ ] mandar mail con link a web
-* [ ] completar "indice por clase" con los links a jviewer.
+* [x] completar "indice por clase" con los links a jviewer.
 * [x] armar los notebooks de ejercicios
 * [x] ver temario debajo de nota y verificar los titulos de cada notebook. Que no falte nada.
-* [ ] armar .zip con ejercicios solucion.
-* [ ] agregar como usa el archivo requirements.txt
-* [ ] la idea es armar cursos modulares, que permitan combinarlos, python cientifico, sql, api, audio, ia, UI. 
+* [x] armar .zip con ejercicios solucion.
+* [x] agregar como usa el archivo requirements.txt
+* [x] la idea es armar cursos modulares, que permitan combinarlos, python cientifico, sql, api, audio, ia, UI. 
 
 > Nota: en el caso del curso de aduntref, el curso es de 12 horas, hay que pensar en funcion de los intereses de los alumno que tema abordar en la clase 4.
 
